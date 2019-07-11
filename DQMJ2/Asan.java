@@ -14,18 +14,16 @@ public class Asan extends Actor
      */
     public void act() 
     {
-<<<<<<< HEAD
         // Add your action code here
         if( Greenfoot.isKeyDown( "right" ) ){
         setRotation(0);
         move(1);
 }
 
-=======
         if( Greenfoot.isKeyDown( "up" ) ){
         setRotation(270);
         move(1);
 }
->>>>>>> 229d92a11ffbca3dfa5ccaab0bfa7da485c28511
+
     }    
 }

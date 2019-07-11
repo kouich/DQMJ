@@ -5,20 +5,9 @@ class.nakama.image=seal.png
 class.unk.image=beeper.png
 editor.fx.0.height=739
 editor.fx.0.width=816
-<<<<<<< HEAD
-<<<<<<< HEAD
-editor.fx.0.x=68
-editor.fx.0.y=155
-height=585
-=======
-editor.fx.0.x=141
-editor.fx.0.y=104
-=======
 editor.fx.0.x=129
 editor.fx.0.y=172
->>>>>>> 229d92a11ffbca3dfa5ccaab0bfa7da485c28511
 height=646
->>>>>>> a2e5e36086fc946c7590a8c41dada12dd0e02fc5
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
@@ -73,15 +62,5 @@ target5.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
-<<<<<<< HEAD
-<<<<<<< HEAD
-xPosition=57
-yPosition=101
-=======
-xPosition=70
-yPosition=119
->>>>>>> a2e5e36086fc946c7590a8c41dada12dd0e02fc5
-=======
 xPosition=149
 yPosition=262
->>>>>>> 229d92a11ffbca3dfa5ccaab0bfa7da485c28511

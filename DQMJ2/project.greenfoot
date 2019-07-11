@@ -1,5 +1,9 @@
 #Greenfoot project file
+<<<<<<< HEAD
 class.Asan.image=ant3.png
+=======
+class.Yuusya.image=baby1.png
+>>>>>>> 93b7ebb0fe5801beef5921fec0f0a9d49dcc9832
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -22,7 +26,11 @@ readme.x=10
 readme.y=10
 simulation.speed=50
 target1.height=50
+<<<<<<< HEAD
 target1.name=Asan
+=======
+target1.name=Yuusya
+>>>>>>> 93b7ebb0fe5801beef5921fec0f0a9d49dcc9832
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
@@ -38,5 +46,10 @@ target2.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=873
 yPosition=272
+=======
+xPosition=46
+yPosition=170
+>>>>>>> 93b7ebb0fe5801beef5921fec0f0a9d49dcc9832
